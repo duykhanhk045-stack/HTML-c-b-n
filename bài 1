@@ -27,7 +27,15 @@
     <!--gán ảnh--->
     <a href="/bai_01/Anh01.img">Xem ảnh lập trình</a>
 
-    <video src="/bai_01/Recording 2025-10-17 092153.mp4" autoplay controls loop>Đây là video</video>
+   <!--gán video-->
+   <video width="320" height="240" controls loop autoplay>
+        <source src="Recording 2025-10-17 092153.mp4" tybe="video/m4">
+    </video>
+
+    <!--gán audio-->
+    <audio controls loop>
+        <source src="link_audio.mp3" type="audio/mpeg">
+    </audio>
 
     <!--Tạo bảng-->
     <table>
