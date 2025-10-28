@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="HTML, CSS, Javascript">
+    <meta name="keywords" content="HTML cơ bản">
+    <meta name="author" content="Nguyễn Duy Khánh">
+    <title>Trang web đầu tiên của tôi</title>
+</head>
+
+<body>
+    <h1>Chào mừng đến với HTML</h1>
+    <p>Mình là Khánh. <br> Sinh viên năm nhất hvnh. <br>Và Mình rất thích học môn lập trình</p>
+    <h2>Và đây là phần giới thiệu bản thân của mình</h2>
+    <br>
+    <b>Tôi năm nay đã 18 tuổi.</b>
+    <br>
+    <i>Và mình có một niềm tin rằng nếu cố gắng theo đuổi thì sẽ có ngày đạt được thành công</i>
+    <br>
+    <ins>đây là một đoạn văn</u>
+    <hr>
+    <small>Tôi đi học được 2 tháng rồi</small>
+    <br>
+    <sub>Đây lá ja</sub>
+
+    <!--gán ảnh--->
+    <a href="/bai_01/Anh01.img">Xem ảnh lập trình</a>
+
+    <video src="/bai_01/Recording 2025-10-17 092153.mp4" autoplay controls loop>Đây là video</video>
+
+    <!--Tạo bảng-->
+    <table>
+        <thead>
+            <th>STT</th>
+            <th>Tên</th>
+            <th>SĐT</th>
+        </thead>
+        <body>
+            <tr>
+                <td>1</td>
+                <td>Nguyễn Duy Khánh</td>
+                <td>0123456789</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Nguyễn Duy Minh</td>
+                <td>0987665432</td>
+            </tr>
+        </body>
+    </table>
+</body>
+
+</html>
